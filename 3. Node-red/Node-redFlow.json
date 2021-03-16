@@ -1,0 +1,1 @@
+[{"id":"c511a69f.cf33b8","type":"function","z":"5a524a44.dabe24","name":"ObjTemp","func":"global.set('objectTemp',msg.payload.d.objectTemp)\nreturn {payload:msg.payload.d.objectTemp}","outputs":1,"noerr":0,"initialize":"","finalize":"","x":440,"y":280,"wires":[["d8e734ea.ba2ff8","39db720b.be1fbe"]]}]
